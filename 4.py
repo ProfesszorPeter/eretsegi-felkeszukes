@@ -15,7 +15,7 @@ print(szorzat)
 if num1 % num2 == 0:
     print(num1 / num2)
 else:
-    exit 
+    print(f"{num1} és {num2} nem oszthatóak egymással")
 
 #def hanyados:
 #    if num1 % num2 == 0:
