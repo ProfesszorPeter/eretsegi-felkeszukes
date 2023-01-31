@@ -1,5 +1,5 @@
 num1 = int(input("Adja meg az első számot: "))
-num2 = int(input("Adja meg az második számot: "))
+num2 = int(input("Adja meg a második számot: "))
 
 if num1 > num2:
     print(num1)
